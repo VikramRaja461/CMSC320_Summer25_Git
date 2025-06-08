@@ -9,3 +9,7 @@ Answer: Statistcs or advertising where large amounts of data are processed
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing changes the commit history for clarity
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning SQL
