@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Statistcs or advertising where large amounts of data are processed
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing changes the commit history for clarity
